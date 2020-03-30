@@ -1,0 +1,10 @@
+C:\Users\CODEN\source\repos\form1\form1\bin\Debug\form1.exe.config
+C:\Users\CODEN\source\repos\form1\form1\bin\Debug\form1.exe
+C:\Users\CODEN\source\repos\form1\form1\bin\Debug\form1.pdb
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.csprojAssemblyReference.cache
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.conv_btn.resources
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.exe
+C:\Users\CODEN\source\repos\form1\form1\obj\Debug\form1.pdb
